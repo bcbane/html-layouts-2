@@ -1,0 +1,119 @@
+.main{
+
+  width: 100%;
+  height: 145vh;
+  background: #d8d8d8;
+  padding-top: 30px;
+}
+
+.main-header{
+
+  width: 80%;
+  height: 40vh;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  margin-bottom: 30px;
+
+}
+
+.main-header p {
+
+  font-size: 18px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+.main-button-area{
+
+  width: 80%;
+  height: 50px;
+  margin-top:8vh;
+
+
+}
+
+.main-footer ul li{
+
+  font-family: sans-serif;
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 50px;
+
+  float: right;
+
+
+}
+
+
+.header-button{
+
+  height: 50px;
+  width: 140px;
+  font-size: 20px;
+  color: #fff;
+  font-weight: lighter;
+  margin-right: 10px;
+
+}
+
+#red{
+
+  background: #d50021;
+}
+
+#blue{
+
+  background: #4791dc;
+}
+
+.mid-section{
+
+  width: 80%;
+  height: 90vh;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  margin-bottom: 30px;
+
+}
+
+.image-contain{
+
+  width: 90%;
+  height: 50vh;
+  background: #444;
+  margin: auto;
+  margin-bottom: 30px;
+  border: 5px #000;
+  position: relative;
+}
+
+.image-contain h1{
+
+  font-size: 36px;
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  top: 20vh;
+  left: 33%;
+}
+
+.mid-section p {
+
+  font-size: 18px;
+  font-family: sans-serif;
+  line-height: 1.5;
+  width: 90%;
+  margin: auto;
+}
+
+.main-footer{
+
+  background: #444;
+  width: 100%;
+  height: 10vh;
+}
